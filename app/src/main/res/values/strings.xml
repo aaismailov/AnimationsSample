@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Animations</string>
+    <string name="close">ЗАКРОЙ</string>
+    <string name="open">ОТКРОЙ</string>
+</resources>
